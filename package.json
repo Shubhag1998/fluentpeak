@@ -1,0 +1,28 @@
+{
+  "name": "fluentpeak",
+  "version": "1.0.0",
+  "description": "FluentPeak - Your Peak Performance Partner for IELTS, TOEFL, PTE & SELT",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "IELTS",
+    "TOEFL",
+    "PTE",
+    "SELT",
+    "English Learning",
+    "FluentPeak"
+  ],
+  "author": "FluentPeak",
+  "license": "MIT",
+  "dependencies": {
+    "next": "14.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {}
+}
